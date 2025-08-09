@@ -1,39 +1,38 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# Jacksu-chan- THe Moonwalking Robot 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: M&P
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Amrita Reji - CET
+- Member 2: Meera R S - CET
 
 ### Project Description
-[2-3 lines about what your project does]
+Jacksu-chan is a cute little robot who is a huge MJ fan and would do nothing but moonwalk and even pull off a crusaito to any music, all with some cute expressions:))
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Imagine a world without our kawai jacksu chan! We were deeply concerened for a world without him to moonwalk and be cute. Hence we solved it right away hehe.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+We have solved it with Jacksu-chan, a robot who is expert in moonwalking and crusaitos!! Moonwalk? Check. Crusaitos? Double check. This robot’s got all the moves!Smooth moves, buttery grooves, and a sprinkle of kawaii — that’s Jacksu-chan for you!
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Languages used - Arduino C++
+- Frameworks used - Arduino IDE Environment
+- Libraries used - AdaFruit_GFX(for OLED Display), Adafruit_SSD1306 (OLED driver library) 
+- Tools used - Arduino Uno, OLED Display, Digital Sound Sensor, Servo Motors, Batterie(power supply), Switch (for control)
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- Main Components - Arduino Uno, OLED Display(1), Digital Sound Sensor(1), Servo Motors, Batteries (power supply), Switch(1) (for control)
+- List specifications - Arduino Uno: 16 MHz, 5V microcontroller board, OLED Display: 128x64 pixels, I2C interface, Digital Sound Sensor: detects sound, digital output, Servo Motors: 5V, standard small servo, Batteries: power supply for the system, Switch: used to turn the device on/off
+
 
 ### Implementation
 For Software:
@@ -47,7 +46,7 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![](Add screenshot 1 here with proper name)
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
@@ -63,8 +62,11 @@ For Software:
 For Hardware:
 
 # Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
+!['circuit.jpg'](Add your circuit diagram here)
+Power (from batteries) is distributed via the breadboard.
+Arduino controls servos via PWM pins.
+Arduino reads sound sensor digital output.
+Arduino controls and sends data to the OLED over I2C.
 
 ![Schematic](Add your schematic diagram here)
 *Add caption explaining the schematic*
@@ -73,24 +75,24 @@ For Hardware:
 ![Components](Add photo of your components here)
 *List out all components shown*
 
-![Build](Add photos of build process here)
+!['pic1.jpg'](Add photos of build process here)
 *Explain the build steps*
 
-![Final](Add photo of final product here)
+!['final.jpg'](Add photo of final product here)
 *Explain the final build*
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+['https://youtu.be/acQnqLUIEzg?si=b75dbGumQlU6sROG']
+The video demonstartes the development stages of the robot to the final stage.
 
 # Additional Demos
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Amrita Reji : Robot chasis, setting of servo motors, debugging
+- Meera R S: OLED set up, debugging, sound sensor calibration 
+
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
