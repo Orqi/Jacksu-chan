@@ -47,8 +47,7 @@ In simple terms, a robot calls jacksu-chan who moonwalks their way to the moon.
 
 ### Project Demo
 # Video
-['https://youtu.be/oZ7hnd70nBU?si=3RfNu03eV6V5PKAc']
-The video demonstartes the development stages of the robot to the final stage.
+[![Watch the video](thumbnail.jpg)](https://youtu.be/oZ7hnd70nBU?si=3RfNu03eV6V5PKAc)
 
 # Additional Demos
 [Add any extra demo materials/links]
