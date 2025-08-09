@@ -1,4 +1,4 @@
-<img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
+![circuit](https://github.com/user-attachments/assets/e289f0fe-8051-477d-a88a-d0937ec9bd62)<img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
 # Jacksu-chan- THe Moonwalking Robot 🎯
@@ -62,7 +62,8 @@ For Software:
 For Hardware:
 
 # Schematic & Circuit
-!['circuit.jpg'](Add your circuit diagram here)
+![circuit](https://github.com/user-attachments/assets/d7590db3-1925-43cb-8c81-a0d834f6852b)
+](Add your circuit diagram here)
 Power (from batteries) is distributed via the breadboard.
 Arduino controls servos via PWM pins.
 Arduino reads sound sensor digital output.
@@ -75,7 +76,7 @@ Arduino controls and sends data to the OLED over I2C.
 ![Components](Add photo of your components here)
 *List out all components shown*
 
-!['pic1.jpg'](Add photos of build process here)
+![](Add photos of build process here)
 *Explain the build steps*
 
 !['final.jpg'](Add photo of final product here)
