@@ -3,7 +3,7 @@
 
 
 ## Basic Details
-### Team Name: M&P
+### Team Name: Motu and Patlu
 
 
 ### Team Members
