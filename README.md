@@ -84,7 +84,7 @@ Arduino controls and sends data to the OLED over I2C.
 
 ### Project Demo
 # Video
-['https://youtu.be/acQnqLUIEzg?si=b75dbGumQlU6sROG']
+['https://youtu.be/oZ7hnd70nBU?si=3RfNu03eV6V5PKAc']
 The video demonstartes the development stages of the robot to the final stage.
 
 # Additional Demos
