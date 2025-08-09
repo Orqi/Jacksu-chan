@@ -1,4 +1,4 @@
-![circuit](https://github.com/user-attachments/assets/e289f0fe-8051-477d-a88a-d0937ec9bd62)<img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
+src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
 # Jacksu-chan- THe Moonwalking Robot 🎯
@@ -26,61 +26,29 @@ We have solved it with Jacksu-chan, a robot who is expert in moonwalking and cru
 For Software:
 - Languages used - Arduino C++
 - Frameworks used - Arduino IDE Environment
-- Libraries used - AdaFruit_GFX(for OLED Display), Adafruit_SSD1306 (OLED driver library) 
-- Tools used - Arduino Uno, OLED Display, Digital Sound Sensor, Servo Motors, Batterie(power supply), Switch (for control)
+- Libraries used - AdaFruit_GFX(for OLED Display), Adafruit_SSD1306 (OLED driver library) ,Otto.h.
+- Tools used - Arduino Uno, OLED Display, Digital Sound Sensor, Servo Motors, Batterie(power supply), Switch (for control),Esp32,solder,jumper wires,multimeter.
 
 For Hardware:
-- Main Components - Arduino Uno, OLED Display(1), Digital Sound Sensor(1), Servo Motors, Batteries (power supply), Switch(1) (for control)
-- List specifications - Arduino Uno: 16 MHz, 5V microcontroller board, OLED Display: 128x64 pixels, I2C interface, Digital Sound Sensor: detects sound, digital output, Servo Motors: 5V, standard small servo, Batteries: power supply for the system, Switch: used to turn the device on/off
-
-
-### Implementation
-For Software:
-# Installation
-[commands]
-
-# Run
-[commands]
-
-### Project Documentation
-For Software:
-
-# Screenshots (Add at least 3)
-![](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
+- Main Components - Arduino Uno, OLED Display(1), Digital Sound Sensor(1), Servo Motors SG90s, Batteries (power supply)(4AA), Switch(1) (for control),esp32 to control oled.
+- List specifications - Arduino Uno: 16 MHz, 5V microcontroller board, OLED Display: 128x64 pixels, I2C interface, Digital Sound Sensor: detects sound, digital output, Servo Motors: 5V, standard small servo, Batteries: power supply for the system, Switch: used to turn the device on/off,esp32 wroom.
 
 # Schematic & Circuit
 ![circuit](https://github.com/user-attachments/assets/d7590db3-1925-43cb-8c81-a0d834f6852b)
-](Add your circuit diagram here)
-Power (from batteries) is distributed via the breadboard.
-Arduino controls servos via PWM pins.
-Arduino reads sound sensor digital output.
-Arduino controls and sends data to the OLED over I2C.
 
-![Schematic](Add your schematic diagram here)
+
+![Alt text](circuit.jpeg)
 *Add caption explaining the schematic*
 
 # Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
+![Alt text](pic1.jpg)
 
-![](Add photos of build process here)
-*Explain the build steps*
+![Alt text](pic2.jpg)
 
-!['final.jpg'](Add photo of final product here)
-*Explain the final build*
+![Alt text](pic3.jpg)
+
+!['final.jpg'](final.jpeg)
+In simple terms, a robot calls jacksu-chan who moonwalks their way to the moon.
 
 ### Project Demo
 # Video
