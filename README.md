@@ -39,7 +39,11 @@ For Hardware:
 <p float="left">
   <img src="pic1.jpg" width="200" />
   <img src="pic2.jpg" width="200" />
+</p>
+
+<p float="left">
   <img src="pic3.jpg" width="200" />
+  <img src="pic4.jpeg" width="200" />
 </p>
 
 !['final.jpg'](final.jpeg)
