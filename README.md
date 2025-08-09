@@ -34,7 +34,6 @@ For Hardware:
 # Schematic & Circuit
 
 ![Alt text](circuit.jpeg)
-*Add caption explaining the schematic*
 
 # Build Photos
 <p float="left">
