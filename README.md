@@ -34,18 +34,16 @@ For Hardware:
 - List specifications - Arduino Uno: 16 MHz, 5V microcontroller board, OLED Display: 128x64 pixels, I2C interface, Digital Sound Sensor: detects sound, digital output, Servo Motors: 5V, standard small servo, Batteries: power supply for the system, Switch: used to turn the device on/off,esp32 wroom.
 
 # Schematic & Circuit
-![circuit](https://github.com/user-attachments/assets/d7590db3-1925-43cb-8c81-a0d834f6852b)
-
 
 ![Alt text](circuit.jpeg)
 *Add caption explaining the schematic*
 
 # Build Photos
-![Alt text](pic1.jpg)
-
-![Alt text](pic2.jpg)
-
-![Alt text](pic3.jpg)
+<p float="left">
+  <img src="pic1.jpg" width="200" />
+  <img src="pic2.jpg" width="200" />
+  <img src="pic3.jpg" width="200" />
+</p>
 
 !['final.jpg'](final.jpeg)
 In simple terms, a robot calls jacksu-chan who moonwalks their way to the moon.
